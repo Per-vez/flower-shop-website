@@ -1,0 +1,94 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+/* banner-container */
+header{
+    background: rgba(229, 84, 115, 0.10);
+   height: 400px;
+   width: 100%;
+   
+
+}
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+.banner-container{
+    padding-top: 80px ;
+    padding-left: 200px;
+}
+
+.shop-heading{
+    font-size: 30px;
+    width: 300px;
+    font-weight: 800;
+}
+
+.shop-description{
+    font-size: 15px ;
+    width: 650px;
+}
+
+.flower-image{
+   width: 300px;
+   height: 380px;
+  padding-top: 20px;
+  padding-right: 100px;
+}
+
+.btn-primary{
+    border: 0px;
+    border-radius: 8px;
+    background-color: #E55473;
+    color: white;
+    padding: 4px 2px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.offer{
+    margin-top: 20px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    
+    
+}
+
+.offer-container{
+    text-align: center;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+
+}
+
+.offer-title{
+    
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.span-color{
+    color: #E55473;
+}
+
+.offer-description{
+    color: #742839;
+    font-weight: 400;
+    margin-top: 3px;
+}
+
+
+.offer-image{
+    width: 200px;
+    height: 150px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
