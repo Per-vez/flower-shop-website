@@ -51,6 +51,42 @@ header {
     margin-bottom: 10px;
 }
 
+.featured-flower{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.featured-flower-head{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.featured-flower-description{
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: -20px;
+}
+
+.featured-flower-container{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 2px;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-top: 30px;
+
+}
+
+.ff-img{
+    border: 0px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(128, 128, 128, 0.13);
+    height: 350px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+
 .offer {
     margin-top: 100px;
     background-color: antiquewhite;
