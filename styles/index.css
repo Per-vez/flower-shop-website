@@ -123,7 +123,7 @@ header {
 }
 
 .deals{
-    background-image: url('/images/Rectangle\ 9.png');
+    background-image: url('./images/Rectangle\ 9.png');
     padding: 100px 130px 100px 130px;
     background-repeat: no-repeat;
     margin: 50px 130px 20px 130px;
