@@ -52,7 +52,7 @@ header {
 }
 
 .offer {
-    margin-top: 20px;
+    margin-top: 100px;
     background-color: antiquewhite;
     display: flex;
     justify-content: space-around;
@@ -95,6 +95,7 @@ header {
 
 .instagram {
     text-align: center;
+    margin-top: 100px;
 }
 
 .insta-title {
@@ -128,6 +129,7 @@ header {
     background-repeat: no-repeat;
     margin: 50px 130px 20px 130px;
     border-radius: 10px;
+    margin-top: 130px;
 }
 
 .deals-container{
@@ -149,4 +151,34 @@ header {
     border-radius: 5px;
     width: 300px;
     height: 30px;
+}
+
+.footer{
+    background-color: black;
+    height: ;
+    color: white;
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 150px;
+}
+
+.footer-header{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.span{
+    color: rgb(238, 21, 57);
+}
+
+.footer-description{
+    font-size: 20px;
+    font-weight: 400px;
+    margin-top: -30px;
+}
+
+.footer-foot{
+    font-size: 10px;
+    margin-top: 80px;
 }
